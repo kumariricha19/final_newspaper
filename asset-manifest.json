@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kumariricha19/final_newspaper.git/static/css/main.e21eab75.css",
+    "main.js": "/kumariricha19/final_newspaper.git/static/js/main.8fe0e537.js",
+    "static/js/787.c79e66a8.chunk.js": "/kumariricha19/final_newspaper.git/static/js/787.c79e66a8.chunk.js",
+    "index.html": "/kumariricha19/final_newspaper.git/index.html",
+    "main.e21eab75.css.map": "/kumariricha19/final_newspaper.git/static/css/main.e21eab75.css.map",
+    "main.8fe0e537.js.map": "/kumariricha19/final_newspaper.git/static/js/main.8fe0e537.js.map",
+    "787.c79e66a8.chunk.js.map": "/kumariricha19/final_newspaper.git/static/js/787.c79e66a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e21eab75.css",
+    "static/js/main.8fe0e537.js"
+  ]
+}
